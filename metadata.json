@@ -1,0 +1,5 @@
+{
+  "name": "CIAL Control de Despachos",
+  "description": "Una aplicación web para gestionar y visualizar zonales de despacho, sus tiempos restantes y un historial de despachos. Reemplaza la funcionalidad de una macro de Excel para permitir visualización en múltiples computadores (con persistencia local por navegador).",
+  "requestFramePermissions": []
+}
